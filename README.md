@@ -4,9 +4,7 @@
 
 - 📞 Как со мной связаться:
 <div id="socials" aligh="center">
-    <a href="linkedin-url">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+     
   <a href="https://t.me/julialiax">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
